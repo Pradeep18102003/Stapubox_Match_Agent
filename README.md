@@ -29,9 +29,10 @@ I focused on building an efficient **Hybrid RAG (Retrieval-Augmented Generation)
 
 
 ### App Preview
-<img width="1920" height="1080" alt="Screenshot 2025-12-28 114756" src="https://github.com/user-attachments/assets/c77e91f2-be73-4a5b-80a1-a54bd73f7707" />
+<img width="1920" height="1022" alt="Screenshot 2025-12-28 114948" src="https://github.com/user-attachments/assets/33a9a788-c515-4fe7-a3ee-cf3737120a71" />
+<img width="1920" height="1011" alt="Screenshot 2025-12-28 114756" src="https://github.com/user-attachments/assets/da2e1803-d1fc-42f3-a8a8-e743f6668ba7" />
 
-<img width="1920" height="1080" alt="Screenshot 2025-12-28 114756" src="https://github.com/user-attachments/assets/68124063-837b-4e76-a5fc-a4d932f172b4" />
+
 
 
 ---
