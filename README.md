@@ -85,7 +85,7 @@ Follow these steps to get the StapuBox AI Matchmaker running on your local machi
 
 ### Contact me
 - Name: Pradeep Kumar S
-- Email: pradeep18kumar10@gmail.com
+- Email: pradeep18kumar10@gmail.com, pradeep.kumars.min22@iitbhu.ac.in
 - LinkedIn: [Pradeep Kumar](https://www.linkedin.com/in/pradeep-kumar-bba090320/)
 - Github: [Pradeep18102003](https://github.com/Pradeep18102003)
    
