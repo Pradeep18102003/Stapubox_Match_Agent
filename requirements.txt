@@ -1,6 +1,6 @@
 streamlit
 langchain
-langchain-openai
+langchain-google-genai
 faker
 pandas
 pgeocode
