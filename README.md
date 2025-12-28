@@ -74,7 +74,7 @@ Follow these steps to get the StapuBox AI Matchmaker running on your local machi
    pip install -r requirements.txt
    ```
 4. **Configure Your API Key:**
-   Create a directory named .streamlit in the root folder and add a secrets.toml file inside it and add your Google Gemini API key inside that file
+   Create a directory named `.streamlit` in the root folder and add a `secrets.toml` file inside it and add your Google Gemini API key inside that file
 5. **Generate Synthetic Data:**
    Run the data generation script to create your local database of 200 players
    ```bash
