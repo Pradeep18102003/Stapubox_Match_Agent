@@ -1,6 +1,5 @@
 # StapuBox AI Matchmaker
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge.svg)](YOUR_DEPLOYED_APP_LINK_HERE) 
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 [![Powered by Gemini](https://img.shields.io/badge/AI-Gemini%203%20Flash-orange.svg)](https://aistudio.google.com/)
 
