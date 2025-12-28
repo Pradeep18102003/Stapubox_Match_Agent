@@ -1,0 +1,502 @@
+[
+    {
+        "id": "STAPU_1000",
+        "name": "Charvi Nori",
+        "sport": "Cricket",
+        "skill_level": "Advanced",
+        "location": "Hauz Khas",
+        "pincode": "110016",
+        "availability": "Evenings",
+        "bio": "Looking for tennis partners near Hauz Khas."
+    },
+    {
+        "id": "STAPU_1001",
+        "name": "Kavya Gokhale",
+        "sport": "Football",
+        "skill_level": "Advanced",
+        "location": "DLF Phase II",
+        "pincode": "122008",
+        "availability": "Evenings",
+        "bio": "Looking for football partners near DLF Phase II."
+    },
+    {
+        "id": "STAPU_1002",
+        "name": "Qushi Bahl",
+        "sport": "Table Tennis",
+        "skill_level": "Intermediate",
+        "location": "Hauz Khas",
+        "pincode": "110016",
+        "availability": "Weekends",
+        "bio": "Looking for table tennis partners near Hauz Khas."
+    },
+    {
+        "id": "STAPU_1003",
+        "name": "Girish Zacharia",
+        "sport": "Table Tennis",
+        "skill_level": "Advanced",
+        "location": "Hauz Khas",
+        "pincode": "110016",
+        "availability": "Evenings",
+        "bio": "Looking for cricket partners near Hauz Khas."
+    },
+    {
+        "id": "STAPU_1004",
+        "name": "Eiravati Seshadri",
+        "sport": "Football",
+        "skill_level": "Intermediate",
+        "location": "Hauz Khas",
+        "pincode": "110016",
+        "availability": "Evenings",
+        "bio": "Looking for table tennis partners near Hauz Khas."
+    },
+    {
+        "id": "STAPU_1005",
+        "name": "Aarav Karan",
+        "sport": "Tennis",
+        "skill_level": "Intermediate",
+        "location": "DLF Phase II",
+        "pincode": "122008",
+        "availability": "Evenings",
+        "bio": "Looking for football partners near DLF Phase II."
+    },
+    {
+        "id": "STAPU_1006",
+        "name": "Tara More",
+        "sport": "Cricket",
+        "skill_level": "Beginner",
+        "location": "DLF Phase II",
+        "pincode": "122008",
+        "availability": "Evenings",
+        "bio": "Looking for table tennis partners near DLF Phase II."
+    },
+    {
+        "id": "STAPU_1007",
+        "name": "Zashil Andra",
+        "sport": "Cricket",
+        "skill_level": "Advanced",
+        "location": "Rohini",
+        "pincode": "110085",
+        "availability": "Weekends",
+        "bio": "Looking for cricket partners near Rohini."
+    },
+    {
+        "id": "STAPU_1008",
+        "name": "Bhanumati Dubey",
+        "sport": "Tennis",
+        "skill_level": "Intermediate",
+        "location": "Connaught Place",
+        "pincode": "110001",
+        "availability": "Evenings",
+        "bio": "Looking for football partners near Connaught Place."
+    },
+    {
+        "id": "STAPU_1009",
+        "name": "Omisha Samra",
+        "sport": "Badminton",
+        "skill_level": "Beginner",
+        "location": "Rohini",
+        "pincode": "110085",
+        "availability": "Evenings",
+        "bio": "Looking for tennis partners near Rohini."
+    },
+    {
+        "id": "STAPU_1010",
+        "name": "Kiaan Mahajan",
+        "sport": "Cricket",
+        "skill_level": "Advanced",
+        "location": "Noida Sector 62",
+        "pincode": "201309",
+        "availability": "Weekends",
+        "bio": "Looking for badminton partners near Noida Sector 62."
+    },
+    {
+        "id": "STAPU_1011",
+        "name": "Girish Kannan",
+        "sport": "Badminton",
+        "skill_level": "Beginner",
+        "location": "Indirapuram",
+        "pincode": "201014",
+        "availability": "Weekends",
+        "bio": "Looking for tennis partners near Indirapuram."
+    },
+    {
+        "id": "STAPU_1012",
+        "name": "Liam Deshpande",
+        "sport": "Badminton",
+        "skill_level": "Intermediate",
+        "location": "Connaught Place",
+        "pincode": "110001",
+        "availability": "Weekends",
+        "bio": "Looking for football partners near Connaught Place."
+    },
+    {
+        "id": "STAPU_1013",
+        "name": "Abhimanyu Bansal",
+        "sport": "Badminton",
+        "skill_level": "Beginner",
+        "location": "Hauz Khas",
+        "pincode": "110016",
+        "availability": "Evenings",
+        "bio": "Looking for football partners near Hauz Khas."
+    },
+    {
+        "id": "STAPU_1014",
+        "name": "Xalak Dara",
+        "sport": "Football",
+        "skill_level": "Advanced",
+        "location": "Gurgaon Ph 3",
+        "pincode": "122010",
+        "availability": "Weekends",
+        "bio": "Looking for football partners near Gurgaon Ph 3."
+    },
+    {
+        "id": "STAPU_1015",
+        "name": "Hema Choudhary",
+        "sport": "Football",
+        "skill_level": "Beginner",
+        "location": "Gurgaon Ph 3",
+        "pincode": "122010",
+        "availability": "Weekends",
+        "bio": "Looking for tennis partners near Gurgaon Ph 3."
+    },
+    {
+        "id": "STAPU_1016",
+        "name": "Hemang Nigam",
+        "sport": "Badminton",
+        "skill_level": "Beginner",
+        "location": "Gurgaon Ph 3",
+        "pincode": "122010",
+        "availability": "Evenings",
+        "bio": "Looking for football partners near Gurgaon Ph 3."
+    },
+    {
+        "id": "STAPU_1017",
+        "name": "Ijaya Lala",
+        "sport": "Table Tennis",
+        "skill_level": "Beginner",
+        "location": "Gurgaon Ph 3",
+        "pincode": "122010",
+        "availability": "Evenings",
+        "bio": "Looking for cricket partners near Gurgaon Ph 3."
+    },
+    {
+        "id": "STAPU_1018",
+        "name": "Aryan Garde",
+        "sport": "Table Tennis",
+        "skill_level": "Beginner",
+        "location": "DLF Phase II",
+        "pincode": "122008",
+        "availability": "Evenings",
+        "bio": "Looking for football partners near DLF Phase II."
+    },
+    {
+        "id": "STAPU_1019",
+        "name": "Shravya Wali",
+        "sport": "Table Tennis",
+        "skill_level": "Beginner",
+        "location": "Rohini",
+        "pincode": "110085",
+        "availability": "Evenings",
+        "bio": "Looking for tennis partners near Rohini."
+    },
+    {
+        "id": "STAPU_1020",
+        "name": "Pranit Sabharwal",
+        "sport": "Tennis",
+        "skill_level": "Intermediate",
+        "location": "DLF Phase II",
+        "pincode": "122008",
+        "availability": "Weekends",
+        "bio": "Looking for tennis partners near DLF Phase II."
+    },
+    {
+        "id": "STAPU_1021",
+        "name": "Pavani Narayanan",
+        "sport": "Table Tennis",
+        "skill_level": "Intermediate",
+        "location": "DLF Phase II",
+        "pincode": "122008",
+        "availability": "Weekends",
+        "bio": "Looking for table tennis partners near DLF Phase II."
+    },
+    {
+        "id": "STAPU_1022",
+        "name": "Chakrika Sur",
+        "sport": "Badminton",
+        "skill_level": "Beginner",
+        "location": "Noida Sector 15",
+        "pincode": "201301",
+        "availability": "Weekends",
+        "bio": "Looking for badminton partners near Noida Sector 15."
+    },
+    {
+        "id": "STAPU_1023",
+        "name": "Zayan Sachdeva",
+        "sport": "Tennis",
+        "skill_level": "Beginner",
+        "location": "Indirapuram",
+        "pincode": "201014",
+        "availability": "Evenings",
+        "bio": "Looking for badminton partners near Indirapuram."
+    },
+    {
+        "id": "STAPU_1024",
+        "name": "Tanvi Dayal",
+        "sport": "Table Tennis",
+        "skill_level": "Intermediate",
+        "location": "Noida Sector 62",
+        "pincode": "201309",
+        "availability": "Weekends",
+        "bio": "Looking for table tennis partners near Noida Sector 62."
+    },
+    {
+        "id": "STAPU_1025",
+        "name": "Nihal Gour",
+        "sport": "Table Tennis",
+        "skill_level": "Beginner",
+        "location": "Rohini",
+        "pincode": "110085",
+        "availability": "Weekends",
+        "bio": "Looking for badminton partners near Rohini."
+    },
+    {
+        "id": "STAPU_1026",
+        "name": "Sanaya Minhas",
+        "sport": "Tennis",
+        "skill_level": "Beginner",
+        "location": "Noida Sector 15",
+        "pincode": "201301",
+        "availability": "Weekends",
+        "bio": "Looking for football partners near Noida Sector 15."
+    },
+    {
+        "id": "STAPU_1027",
+        "name": "Hemal Sura",
+        "sport": "Badminton",
+        "skill_level": "Intermediate",
+        "location": "DLF Phase II",
+        "pincode": "122008",
+        "availability": "Evenings",
+        "bio": "Looking for football partners near DLF Phase II."
+    },
+    {
+        "id": "STAPU_1028",
+        "name": "Avni Hegde",
+        "sport": "Cricket",
+        "skill_level": "Advanced",
+        "location": "Connaught Place",
+        "pincode": "110001",
+        "availability": "Evenings",
+        "bio": "Looking for badminton partners near Connaught Place."
+    },
+    {
+        "id": "STAPU_1029",
+        "name": "Darika Shankar",
+        "sport": "Table Tennis",
+        "skill_level": "Intermediate",
+        "location": "Indirapuram",
+        "pincode": "201014",
+        "availability": "Weekends",
+        "bio": "Looking for tennis partners near Indirapuram."
+    },
+    {
+        "id": "STAPU_1030",
+        "name": "Fitan Nadig",
+        "sport": "Tennis",
+        "skill_level": "Intermediate",
+        "location": "Connaught Place",
+        "pincode": "110001",
+        "availability": "Weekends",
+        "bio": "Looking for cricket partners near Connaught Place."
+    },
+    {
+        "id": "STAPU_1031",
+        "name": "Dhruv Devi",
+        "sport": "Tennis",
+        "skill_level": "Beginner",
+        "location": "Gurgaon Ph 3",
+        "pincode": "122010",
+        "availability": "Weekends",
+        "bio": "Looking for tennis partners near Gurgaon Ph 3."
+    },
+    {
+        "id": "STAPU_1032",
+        "name": "Nitara Pandit",
+        "sport": "Tennis",
+        "skill_level": "Advanced",
+        "location": "Rohini",
+        "pincode": "110085",
+        "availability": "Weekends",
+        "bio": "Looking for badminton partners near Rohini."
+    },
+    {
+        "id": "STAPU_1033",
+        "name": "Upma Bajaj",
+        "sport": "Tennis",
+        "skill_level": "Intermediate",
+        "location": "Connaught Place",
+        "pincode": "110001",
+        "availability": "Weekends",
+        "bio": "Looking for cricket partners near Connaught Place."
+    },
+    {
+        "id": "STAPU_1034",
+        "name": "Watika Naik",
+        "sport": "Football",
+        "skill_level": "Beginner",
+        "location": "Rohini",
+        "pincode": "110085",
+        "availability": "Weekends",
+        "bio": "Looking for table tennis partners near Rohini."
+    },
+    {
+        "id": "STAPU_1035",
+        "name": "Lopa Dua",
+        "sport": "Badminton",
+        "skill_level": "Intermediate",
+        "location": "Gurgaon Ph 3",
+        "pincode": "122010",
+        "availability": "Weekends",
+        "bio": "Looking for cricket partners near Gurgaon Ph 3."
+    },
+    {
+        "id": "STAPU_1036",
+        "name": "Raksha Garg",
+        "sport": "Cricket",
+        "skill_level": "Advanced",
+        "location": "Rohini",
+        "pincode": "110085",
+        "availability": "Evenings",
+        "bio": "Looking for table tennis partners near Rohini."
+    },
+    {
+        "id": "STAPU_1037",
+        "name": "Yash Agarwal",
+        "sport": "Cricket",
+        "skill_level": "Intermediate",
+        "location": "Noida Sector 15",
+        "pincode": "201301",
+        "availability": "Weekends",
+        "bio": "Looking for football partners near Noida Sector 15."
+    },
+    {
+        "id": "STAPU_1038",
+        "name": "Nandini Devi",
+        "sport": "Badminton",
+        "skill_level": "Intermediate",
+        "location": "Noida Sector 62",
+        "pincode": "201309",
+        "availability": "Evenings",
+        "bio": "Looking for badminton partners near Noida Sector 62."
+    },
+    {
+        "id": "STAPU_1039",
+        "name": "Oeshi Bhatnagar",
+        "sport": "Football",
+        "skill_level": "Advanced",
+        "location": "Indirapuram",
+        "pincode": "201014",
+        "availability": "Evenings",
+        "bio": "Looking for tennis partners near Indirapuram."
+    },
+    {
+        "id": "STAPU_1040",
+        "name": "Nisha Shankar",
+        "sport": "Football",
+        "skill_level": "Intermediate",
+        "location": "DLF Phase II",
+        "pincode": "122008",
+        "availability": "Weekends",
+        "bio": "Looking for badminton partners near DLF Phase II."
+    },
+    {
+        "id": "STAPU_1041",
+        "name": "Gaurang Badal",
+        "sport": "Cricket",
+        "skill_level": "Advanced",
+        "location": "Gurgaon Ph 3",
+        "pincode": "122010",
+        "availability": "Weekends",
+        "bio": "Looking for table tennis partners near Gurgaon Ph 3."
+    },
+    {
+        "id": "STAPU_1042",
+        "name": "Rajeshri Kanda",
+        "sport": "Table Tennis",
+        "skill_level": "Advanced",
+        "location": "Hauz Khas",
+        "pincode": "110016",
+        "availability": "Weekends",
+        "bio": "Looking for football partners near Hauz Khas."
+    },
+    {
+        "id": "STAPU_1043",
+        "name": "Tanveer Chhabra",
+        "sport": "Football",
+        "skill_level": "Intermediate",
+        "location": "Noida Sector 62",
+        "pincode": "201309",
+        "availability": "Evenings",
+        "bio": "Looking for cricket partners near Noida Sector 62."
+    },
+    {
+        "id": "STAPU_1044",
+        "name": "Jairaj Mistry",
+        "sport": "Badminton",
+        "skill_level": "Advanced",
+        "location": "Indirapuram",
+        "pincode": "201014",
+        "availability": "Evenings",
+        "bio": "Looking for tennis partners near Indirapuram."
+    },
+    {
+        "id": "STAPU_1045",
+        "name": "Vincent Chakrabarti",
+        "sport": "Table Tennis",
+        "skill_level": "Beginner",
+        "location": "Noida Sector 15",
+        "pincode": "201301",
+        "availability": "Weekends",
+        "bio": "Looking for cricket partners near Noida Sector 15."
+    },
+    {
+        "id": "STAPU_1046",
+        "name": "Pushti Sidhu",
+        "sport": "Tennis",
+        "skill_level": "Intermediate",
+        "location": "Noida Sector 15",
+        "pincode": "201301",
+        "availability": "Weekends",
+        "bio": "Looking for badminton partners near Noida Sector 15."
+    },
+    {
+        "id": "STAPU_1047",
+        "name": "Madhavi Dubey",
+        "sport": "Badminton",
+        "skill_level": "Advanced",
+        "location": "Rohini",
+        "pincode": "110085",
+        "availability": "Weekends",
+        "bio": "Looking for football partners near Rohini."
+    },
+    {
+        "id": "STAPU_1048",
+        "name": "Yagnesh Kuruvilla",
+        "sport": "Cricket",
+        "skill_level": "Intermediate",
+        "location": "Indirapuram",
+        "pincode": "201014",
+        "availability": "Weekends",
+        "bio": "Looking for badminton partners near Indirapuram."
+    },
+    {
+        "id": "STAPU_1049",
+        "name": "Irya Bakshi",
+        "sport": "Football",
+        "skill_level": "Advanced",
+        "location": "Rohini",
+        "pincode": "110085",
+        "availability": "Evenings",
+        "bio": "Looking for football partners near Rohini."
+    }
+]
